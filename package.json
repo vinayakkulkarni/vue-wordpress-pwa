@@ -85,7 +85,7 @@
     "karma-webpack": "^2.0.2",
     "md5": "^2.2.1",
     "mocha": "^3.5.0",
-    "node-sass": "^4.5.1",
+    "node-sass": "^4.13.1",
     "phantomjs-prebuilt": "^2.1.15",
     "purifycss-webpack": "^0.7.0",
     "recursive-readdir": "^2.1.1",
